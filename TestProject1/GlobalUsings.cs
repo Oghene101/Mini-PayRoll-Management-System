@@ -19,7 +19,9 @@ namespace TestProject1
 
             //Assert
             Assert.Equal(2500, employee.GrossPay);
-            Assert.NotEqual(5, employee.Medicals);
+            Assert.NotEqual(500, employee.Medicals);
+            Assert.NotEqual(1250, employee.Rent);
+            Assert.Equal(75, employee.Food);
             //Assert.
 
 
