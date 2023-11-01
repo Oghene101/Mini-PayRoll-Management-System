@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "izpxg9CkQm1UPuDAM6/y89iNDT3MoWM6ZT5sX1XXkNahiHTejJIp7oXb6cCbITR1vHyG2m7iqPm6FUbXP21gRw==",
+  "dgSpecHash": "UpcKUSOxqud1tSPdGSUyBEoEexRt+EjzLaYf1biM0yqVMvjdDcMom+nMTOQWaTct1W2mYLqJR3G0k6XqhFySTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DECAGON\\Desktop\\source\\Mini Projects\\MiniPayRollManagementSystem\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\DECAGON\\Desktop\\source\\Mini Projects\\Mini-PayRoll-Management-System\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DECAGON\\.nuget\\packages\\consoletables\\2.6.1\\consoletables.2.6.1.nupkg.sha512",
     "C:\\Users\\DECAGON\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
