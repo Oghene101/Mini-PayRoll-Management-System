@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R0E1vRvP5HTrJBN+7QVdA72B2hNf80mxHee6/8pxcHYkkZxK6IBGQlSCdF8icGIX+hyfMytK8w4kZ84X8jfQCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DECAGON\\Desktop\\source\\Mini Projects\\MiniPayRollManagementSystem\\MiniPayRollManagementSysytem1\\MiniPayRollManagementSysytem1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DECAGON\\.nuget\\packages\\consoletables\\2.6.1\\consoletables.2.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
